@@ -19,7 +19,7 @@ A terminal-based roguelike inspired by the original Rogue, created as the final 
 - [Troubleshooting](#troubleshooting)
 - [Academic Context](#academic-context)
 - [License](#license)
-
+![Main Menu](assets/1_main_menu.png) ![Pre-game Menu](assets/2_pregame_menu.png) ![Game HUD](assets/3_game_hud.png) ![Game Layout](assets/4_game_layout.png) ![Trap Room](assets/5_trap_room.png) ![Weapons HUD](assets/6_weapons_hud.png) ![Fighting Mechanism](assets/7_fighting_mechanism.png) ![Treasure Room](assets/8_treasure_room.png) ![Victory Screen](assets/9_victory_screen.png)
 ---
 
 ## Features
@@ -195,13 +195,17 @@ Typical tables (conceptual):
 ## Controls
 
 Common `ncurses` roguelike controls (adjust to your implementation):
-- Movement: Arrow keys or `h j k l`
-- Interact/Pick up: `e` or Enter
-- Inventory: `i`
-- Eat/Use item: `u`
-- Attack: `a` (contextual, melee/ranged based on equipped weapon)
-- Pause/Menu: `Esc` or `m`
-- Save/Exit: `s` / `q`
+- Movement: Arrow keys or `w a s d`
+- Interact/Pick up: `Enter` or Enter
+- Weapons Inventory: `i`
+- Food Inventory: `e`
+- Talisman Inventory: `T`
+- Attack: Just bump the enemy with the weapon or use arrow keys to shoot projectile
+- Cheat codes : `m` for debug (shows the whole map).
+- Cheat codes : `f` to fast travel in a direction.
+- Cheat codes : `v` to add all weapons.
+- Cheat codes : `R` to reload the map.
+- Save/Exit/Load: `k` / `q` / `l`
 
 > Replace with the precise keymap from your code.
 
