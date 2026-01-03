@@ -181,7 +181,7 @@ Typical tables (conceptual):
 
 ## Controls
 
-Common `ncurses` roguelike controls (adjust to your implementation):
+Common `ncurses` roguelike controls :
 - Movement: Arrow keys or `w a s d`
 - Interact/Pick up: `Enter` or Enter
 - Weapons Inventory: `i`
@@ -193,8 +193,6 @@ Common `ncurses` roguelike controls (adjust to your implementation):
 - Cheat codes : `v` to add all weapons.
 - Cheat codes : `R` to reload the map.
 - Save/Exit/Load: `k` / `q` / `l`
-
-> Replace with the precise keymap from your code.
 
 ---
 
