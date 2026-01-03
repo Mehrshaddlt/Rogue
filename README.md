@@ -77,19 +77,6 @@ A terminal-based roguelike inspired by the original Rogue, created as the final 
 | 8 | Treasure Room       | `assets/8_treasure_room.png`       |
 | 9 | Victory Screen      | `assets/9_victory_screen.png`      |
 
-Example Markdown to embed:
-
-```markdown
-![Main Menu](docs/screenshots/1_main_menu.png)
-![Pre-game Menu](docs/screenshots/2_pregame_menu.png)
-![Game HUD](docs/screenshots/3_game_hud.png)
-![Game Layout](docs/screenshots/4_game_layout.png)
-![Trap Room](docs/screenshots/5_trap_room.png)
-![Weapons HUD](docs/screenshots/6_weapons_hud.png)
-![Fighting Mechanism](docs/screenshots/7_fighting_mechanism.png)
-![Treasure Room](docs/screenshots/8_treasure_room.png)
-![Victory Screen](docs/screenshots/9_victory_screen.png)
-```
 
 ---
 
