@@ -19,7 +19,7 @@ A terminal-based roguelike inspired by the original Rogue, created as the final 
 - [Troubleshooting](#troubleshooting)
 - [Academic Context](#academic-context)
 - [License](#license)
-![Main Menu](assets/1_main_menu.png) ![Pre-game Menu](assets/2_pregame_menu.png) ![Game HUD](assets/3_game_hud.png) ![Game Layout](assets/4_game_layout.png) ![Trap Room](assets/5_trap_room.png) ![Weapons HUD](assets/6_weapons_hud.png) ![Fighting Mechanism](assets/7_fighting_mechanism.png) ![Treasure Room](assets/8_treasure_room.png) ![Victory Screen](assets/9_victory_screen.png)
+
 ---
 
 ## Features
@@ -77,7 +77,7 @@ A terminal-based roguelike inspired by the original Rogue, created as the final 
 | 8 | Treasure Room       | `assets/8_treasure_room.png`       |
 | 9 | Victory Screen      | `assets/9_victory_screen.png`      |
 
-
+![Main Menu](assets/1_main_menu.png) ![Pre-game Menu](assets/2_pregame_menu.png) ![Game HUD](assets/3_game_hud.png) ![Game Layout](assets/4_game_layout.png) ![Trap Room](assets/5_trap_room.png) ![Weapons HUD](assets/6_weapons_hud.png) ![Fighting Mechanism](assets/7_fighting_mechanism.png) ![Treasure Room](assets/8_treasure_room.png) ![Victory Screen](assets/9_victory_screen.png)
 ---
 
 ## Installation
