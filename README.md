@@ -1,4 +1,4 @@
-# Rogue — ASCII Dungeon Crawler (Sharif University Final Project)
+# Rogue — ASCII Dungeon Crawler (Sharif University FOP Final Project)
 
 A terminal-based roguelike inspired by the original Rogue, created as the final project for the Programming course at Sharif University of Technology. The game renders in classic ASCII art using `ncurses` on Linux and persists player data, saves, and leaderboards via SQL.
 
